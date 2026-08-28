@@ -69,35 +69,3 @@
       Relógio digital estilizado com CSS.
       <br><br>
       <a href="https://github.com/gushop2007-a11y/relogio-digital">🔗 Ver repositório</a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gushop2007-a11y&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gushop2007-a11y&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gushop2007-a11y&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🐍 Atividade recente
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gushop2007-a11y/gushop2007-a11y/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-> ⚠️ Essa animação da cobrinha só aparece depois de configurar o GitHub Action `snake` no seu repositório especial `gushop2007-a11y/gushop2007-a11y`. Posso te passar o passo a passo se quiser ativar.
-
----
-
-<p align="center">
-  <i>Aberto a oportunidades de estágio em desenvolvimento back-end 🚀</i>
-</p>
