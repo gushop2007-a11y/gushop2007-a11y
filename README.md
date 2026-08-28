@@ -20,7 +20,6 @@
 - 🎓 Cursando **ADS** na Universidade São Caetano do Sul (USCS) — previsão de formatura em 2027
 - 💻 Focado em desenvolvimento **Back-end**, com Java, SQL e boas práticas de POO
 - 🔧 Já construí um sistema CRUD completo (Java + MySQL + JDBC) aplicando o padrão DAO
-- ☁️ Estudando AWS (AWS Skill Builder / Builder Center)
 - 📜 Certificado em **Cisco CCNA** e **Cisco IT Essentials**
 - 📚 Sempre aprendendo algo novo e documentando o processo
 
@@ -37,7 +36,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
