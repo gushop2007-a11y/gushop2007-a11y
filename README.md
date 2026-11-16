@@ -1,4 +1,3 @@
-
 <h1 align="center">Olá, eu sou o Gustavo 👋</h1>
 
 <p align="center">
@@ -47,32 +46,10 @@
   <tr>
     <td width="50%">
       <h4>🗃️ crud-clientes</h4>
-      Sistema CRUD de clientes em Java, com persistência via MySQL e JDBC. Aplica POO, PreparedStatement e o padrão DAO.
+      Sistema CRUD de clientes em Java, com persistência via MySQL, JDBC e padrão DAO.
       <br><br>
       <a href="https://github.com/gushop2007-a11y/crud-clientes">🔗 Ver repositório</a>
     </td>
-    <td width="50%">
-      <h4>🎮 PROJETO-TETRIS</h4>
-      Jogo Tetris construído do zero com HTML, CSS e JavaScript.
-      <br><br>
-      <a href="https://github.com/gushop2007-a11y/PROJETO-TETRIS">🔗 Ver repositório</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4>🔐 Tela-de-login</h4>
-      Interface de tela de login desenvolvida com CSS.
-      <br><br>
-      <a href="https://github.com/gushop2007-a11y/Tela-de-login">🔗 Ver repositório</a>
-    </td>
-    <td width="50%">
-      <h4>🕐 relogio-digital</h4>
-      Relógio digital estilizado com CSS.
-      <br><br>
-      <a href="https://github.com/gushop2007-a11y/relogio-digital">🔗 Ver repositório</a>
-    </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h4>✅ lista-de-tarefas</h4>
       Aplicação para adicionar, editar, pesquisar, filtrar e concluir tarefas. Desenvolvida com HTML, CSS e JavaScript, com salvamento das tarefas no navegador.
@@ -81,4 +58,3 @@
     </td>
   </tr>
 </table>
-```
